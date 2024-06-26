@@ -22,3 +22,5 @@ src/userplugins
 
 ExtensionCache/
 settings/
+pnpm-lock.yaml
+src/plugins/.vscode/settings.json
